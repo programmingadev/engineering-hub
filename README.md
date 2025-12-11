@@ -2,7 +2,6 @@
 > A personal knowledge system for the journey to **World-Class Principal Engineer**.
 
 ---
-
 ## 🎯 Objective
 
 **Build a deep, intuitive, and understanding knowledge.**
@@ -34,6 +33,10 @@ Traversable in both directions:
 > "The derivative of an orange is a slice."
 Intuition so deep that you don't calculate, you *see and feel*.
 
+### The Goal
+
+> *The goal is not to collect notes. The goal is to become the engineer who doesn't need them!*
+
 ---
 ## Principles
 
@@ -53,4 +56,3 @@ Don't read to prepare. Build until you're stuck, then read to get unstuck.
 
 Just-in-time, not just-in-case.
 
-*The goal is not to collect notes. The goal is to become the engineer who doesn't need them!*
